@@ -1,6 +1,6 @@
 ## Sobre Nós
 
-# Bem-vindo à PSI Soluções
+### Bem-vindo à PSI Soluções
 
 PSI Soluções é uma empresa dedicada à inovação e à oferta de soluções para consultórios psicológicos. Nosso objetivo é ajudar profissionais da área a otimizar suas práticas, proporcionando um ambiente eficiente e eficaz para o cuidado de seus pacientes.
 
