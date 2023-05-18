@@ -25,6 +25,12 @@ significativos no cuidado com a saúde mental. Junte-se a nós na PSI Soluções
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
 
+## Etapas do Projeto
+
+
+## Tecnologias Usadas
+
+
 ## Autores
 
  - **Aline Pereira Rocha** **RA:62122973**
