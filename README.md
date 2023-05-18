@@ -17,7 +17,7 @@ significativos no cuidado com a saúde mental. Junte-se a nós na PSI Soluções
 
 ## Índice/Sumário
 
-* [Sobre Nós](#Sobre Nós) 
+* [SobreNós](#Sobre-Nós) 
 * [Índice/Sumário](#Índice-/-Sumário)
 * [Etapas do Projeto](#Etapas-do-Projeto)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
