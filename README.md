@@ -4,6 +4,10 @@
 
 A PSI Soluções é uma empresa que oferece soluções inovadoras para consultórios psicológicos, visando otimizar as práticas e proporcionar um ambiente eficiente para o cuidado dos pacientes. Sua plataforma abrangente e personalizável inclui recursos como gestão de agendamentos, prontuários eletrônicos, teleconsulta e análise de dados. A empresa prioriza a segurança e privacidade dos dados dos clientes, adotando altos padrões de segurança cibernética e conformidade com as regulamentações de proteção de dados. A PSI Soluções acredita que a tecnologia pode ser uma aliada poderosa para profissionais de saúde mental, buscando agilizar processos, promover a colaboração entre profissionais e proporcionar uma experiência excepcional aos pacientes.
 
+### Sobre o Projeto
+
+Com isso nós da PSI Soluções iremos desenvolver um software personalizado para atender as necessidades das nossas clientes, Vanusa Valetim. Nossa equipe realizou uma analise 
+
 ## Índice/Sumário
 
 * [Sobre Nós](#Sobre-Nós) 
