@@ -21,7 +21,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 ## Etapas do Projeto
 
 * [PapeisScrum.md](PapeisScrum.md)
-* [ListaRequisitos](ListaRequisitos)
+* [ListaRequisitos.md](ListaRequisitos.md)
 
 ## Tecnologias Usadas
 
