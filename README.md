@@ -6,22 +6,21 @@ A PSI Soluções é uma empresa que oferece soluções inovadoras para consultó
 
 ### Sobre o Projeto
 
-Com isso nós da PSI Soluções iremos desenvolver um software personalizado para atender as necessidades das nossas clientes, Vanusa Valetim. Nossa equipe realizou uma analise  
-
-Nossa equipe multidisciplinar de especialistas em tecnologia e psicologia se dedicará a entender os desafios específicos que a Vanusa enfrenta em seu consultório psicológico. Com base nessa análise, projetaremos um software abrangente e altamente personalizável, que irá simplificar e otimizar todos os aspectos do seu trabalho clínico.
-
-O software desenvolvido para a Vanusa pela PSI Soluções incluirá recursos avançados de gestão de agendamentos e prontuários eletrônicos, permitindo que você mantenha um controle organizado das consultas e informações dos pacientes. Além disso, implementaremos funcionalidades de teleconsulta, oferecendo a você a flexibilidade de atender seus pacientes de forma remota, sem comprometer a qualidade do atendimento.
+Com isso nós da PSI Soluções iremos desenvolver um software personalizado para atender as necessidades das nossas clientes, Vanusa Valetim. Nossa equipe multidisciplinar de especialistas em tecnologia e psicologia junto e analisamos os desafios específicos que a Vanusa enfrenta em seu consultório psicológico. Com base nessa análise, projetaremos um software abrangente e altamente personalizável, que irá simplificar e otimizar todos os aspectos do seu trabalho clínico. O software desenvolvido para a Vanusa pela PSI Soluções incluirá recursos avançados de gestão de agendamentos e prontuários eletrônicos, permitindo que você mantenha um controle organizado das consultas e informações dos pacientes. 
 
 
 ## Índice/Sumário
 
 * [Sobre Nós](#Sobre-Nós) 
+* [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
+* [Papéis Scrum](#Papéis-Scrum)
 * [Etapas do Projeto](#Etapas-do-Projeto)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
 
 ## Etapas do Projeto
+
 
 
 ## Tecnologias Usadas
