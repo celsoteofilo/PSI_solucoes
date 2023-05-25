@@ -14,7 +14,6 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 * [Sobre Nós](#Sobre-Nós) 
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
-* [Papéis Scrum](#Papéis-Scrum)
 * [Etapas do Projeto](#Etapas-do-Projeto)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
