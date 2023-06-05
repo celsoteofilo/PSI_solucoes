@@ -30,7 +30,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
  - **Aline Pereira Rocha** **RA:62122973**
  - **Arthur Prudêncio** **RA:622121317**
  - **Bruno Henrique Garcia** **RA:622121963**
- - **Bruno Marcelino Eustaquio ** **RA:62122524**
+ - **Bruno Marcelino Eustaquio** **RA:62122524**
  - **Celso Teófilo** **RA62120047**
  - **Lucas Silva** **RA:62122111**
  - **Mateus da Costa** **RA:62122131**
