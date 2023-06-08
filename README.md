@@ -43,6 +43,8 @@ ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com
 
 <img src="https://viget.imgix.net/icon-figma.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1280&ixlib=php-2.1.1&q=90&w=1280&s=6bb679b6c5e4f3a5c58e2be2025e7f48" width="20px" /> [Figma](https://www.figma.com/)
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiQ2mpTk_O5lWUzF_bbIkrI7lpO4dyKF2WEFp-MB5-A&s" width="20px" /> [ChatGPT](https://chat.openai.com/)
+
 ## Autores
 
  - **Aline Pereira Rocha** **RA:62122973**
