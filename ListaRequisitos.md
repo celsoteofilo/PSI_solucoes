@@ -2,6 +2,13 @@
 
 <img src= "https://i.ytimg.com/vi/V74qIKo-OqI/maxresdefault.jpg" width="1000px" /> 
 
+## Técnica Utilizada:
+
+Utilizamos a técnica de Entrevista pelo fato de ser encaixar melhor com a forma que vamos desenvolver esse software e permite obter informações detalhadas dosstakeholders sobre como eles interagem com o sistema. Isso ajuda a identificar os atores (usuários) envolvidos, suas principais tarefas e os objetivos que desejam alcançar ao usar o software da clínica médica.
+
+Pois nosso analista se reúne com o cliente e coleta os requisitos através de entrevistas que podem ser estruturados ou não estruturadas
+
+
 ## Requisitos Funcionais 
 
 [RF001] O Software deve realizar o cadastro de novos usúarios;
