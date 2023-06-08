@@ -1,7 +1,6 @@
 # Stackholders do Projeto
 
-## Grau de Influência: 
-1 - ALTO   |       2 -  MÉDIO     |   3 - BAIXO
+###  Grau de Influência:  1 - ALTO   |       2 -  MÉDIO     |   3 - BAIXO
 
 1. Gestora Vanussa Valetim: São responsáveis pela gestão do software.
 Eles têm interesse em garantir que o software atenda às necessidades da clínica, otimize processos, forneça informações relevantes para a tomada de decisões e esteja em conformidade com as regulamentações e normas aplicáveis.
