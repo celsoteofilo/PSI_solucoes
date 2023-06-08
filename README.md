@@ -35,7 +35,8 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 ## Tecnologias Usadas
 
 <img src="https://i.pinimg.com/736x/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.jpg" width="20px" /> [Canvas](https://www.canva.com/)
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Ffigma-logo%2F&psig=AOvVaw3atud4CamwLTOLYOV3be2V&ust=1686272561737000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICBv_e8sv8CFQAAAAAdAAAAABAJ" width="20px" /> [Figma](https://www.figma.com/files/recent?fuid=1139643875403667725)
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Ffigma-logo%2F&psig=AOvVaw3atud4CamwLTOLYOV3be2V&ust=1686272561737000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICBv_e8sv8CFQAAAAAdAAAAABAJ" width="20px" /> [Figma](https://www.figma.com/)
 
 ## Autores
 
