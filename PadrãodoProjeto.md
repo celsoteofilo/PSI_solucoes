@@ -1,4 +1,4 @@
-#Padrão do Projeto
+# Padrão do Projeto
 
 Com base nos requisitos fornecidos, podemos relacionar os padrões de criação mencionados anteriormente aos requisitos do software para a clínica de psicologia da seguinte forma:
 
