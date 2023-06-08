@@ -21,10 +21,10 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 
 ## Etapas do Projeto
 
-* [PapeisScrum.md](PapeisScrum.md)
+* [Papeis Scrum.md](PapeisScrum.md)
 * [Stackholders do Projeto](StackholdersdoProjeto.md)
 * [Padrão do Projeto.md](PadrãodoProjeto.md)
-* [ListaRequisitos.md](ListaRequisitos.md) 
+* [Lista Requisitos.md](ListaRequisitos.md) 
 
 ## Apresentação Final 
 
