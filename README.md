@@ -41,7 +41,7 @@ ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com
 
 <img src="https://i.pinimg.com/736x/74/6d/77/746d77ef9b49afd5ec2306d39592d01e.jpg" width="20px" /> [Canvas](https://www.canva.com/)
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogodownload.org%2Ffigma-logo%2F&psig=AOvVaw3atud4CamwLTOLYOV3be2V&ust=1686272561737000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCICBv_e8sv8CFQAAAAAdAAAAABAJ" width="20px" /> [Figma](https://www.figma.com/)
+<img src="https://viget.imgix.net/icon-figma.png?auto=format%2Ccompress&crop=focalpoint&fit=crop&fp-x=0.5&fp-y=0.5&h=1280&ixlib=php-2.1.1&q=90&w=1280&s=6bb679b6c5e4f3a5c58e2be2025e7f48" width="20px" /> [Figma](https://www.figma.com/)
 
 ## Autores
 
