@@ -47,6 +47,7 @@ ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com
 
 <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="20px" /> [Discrod](https://discord.com/branding)
 
+<img src="https://img.freepik.com/icones-gratis/google_318-278809.jpg" width="20px" /> [Google](https://www.google.com.br)
 
 ## Autores
 
