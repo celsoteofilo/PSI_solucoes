@@ -45,6 +45,9 @@ ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIiQ2mpTk_O5lWUzF_bbIkrI7lpO4dyKF2WEFp-MB5-A&s" width="20px" /> [ChatGPT](https://chat.openai.com/)
 
+<img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" width="20px" /> [Discrod](https://discord.com/branding)
+
+
 ## Autores
 
  - **Aline Pereira Rocha** **RA:62122973**
