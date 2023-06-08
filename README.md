@@ -23,7 +23,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 
 * [Papeis Scrum.md](PapeisScrum.md)
 * [Stackholders do Projeto](StackholdersdoProjeto.md)
-* [Backlog do produto](Backlogdoprojeto.md)
+* [Backlog do projeto](Backlogdoprojeto.md)
 * [Padrão do Projeto.md](PadrãodoProjeto.md)
 * [Lista Requisitos.md](ListaRequisitos.md) 
 
