@@ -15,7 +15,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
 * [Etapas do Projeto](#Etapas-do-Projeto)
-* [Apresentação Final](#Apresentação Final)
+* [Apresentação Final](#Apresentação-Final)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
 
