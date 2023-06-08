@@ -1,6 +1,6 @@
 # Stackholders do Projeto
 
-Grau de Influência: 
+## Grau de Influência: 
 1 - ALTO   |       2 -  MÉDIO     |   3 - BAIXO
 
 1. Gestora Vanussa Valetim: São responsáveis pela gestão do software.
