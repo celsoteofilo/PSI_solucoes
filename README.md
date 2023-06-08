@@ -32,7 +32,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 ## Apresentação Final 
 
 
-ACESSO AO PROTOTIPO [Protoripo Figma](https://www.figma.com/proto/rZCyY55YHAlRLjwdst1GYC/FINAL-PROJETO?node-id=103-2&starting-point-node-id=103%3A2)
+ACESSO AO PROTÓTIPO [Protótipo Figma](https://www.figma.com/proto/rZCyY55YHAlRLjwdst1GYC/FINAL-PROJETO?node-id=103-2&starting-point-node-id=103%3A2)
 
 ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com/celsoteofilo/PSI_solucoes/files/11683056/Trabalho.Desenvolvimento.do.Software.pdf)
 
