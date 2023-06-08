@@ -27,12 +27,11 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 * [Padrão do Projeto.md](PadrãodoProjeto.md)
 * [Lista Requisitos.md](ListaRequisitos.md) 
 
+
 ## Apresentação Final 
 
 
-
 ## Tecnologias Usadas
-
 
 
 
