@@ -18,5 +18,4 @@ Responsável por gerenciar, organizar e executar todo o trabalho de desenvolvime
 
 
 
-<img src= "https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/c8721077-e611-4797-aa45-eb2d4e9f62cb", width="400px" />
-![Captura de Tela 2023-06-12 às 11 03 01]()
+
