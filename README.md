@@ -62,7 +62,6 @@ ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com
  - **Celso Teófilo** **RA62120047**
  - **Lucas Silva** **RA:62122111**
  - **Mateus da Costa** **RA:62122131**
- - **Mateus da Costa** **RA:62122131**
  - **Samuel Lopes** **RA:622121812**
  - **Valdeno de Oliveira Santos** **RA:62122235**
 
