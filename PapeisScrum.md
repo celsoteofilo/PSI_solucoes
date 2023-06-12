@@ -1,6 +1,5 @@
 # Papéis Scrum
 
-<img src= "https://github.com/celsoteofilo/PSI_solucoes/blob/main/Backlogdoprojeto.md" width="1000px" /> 
 <img src= "https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/0b8ec474-808d-4ca3-b3e0-fcf0ebba5b67"width="400" />
 
 # Time: multifuncional
@@ -17,4 +16,4 @@ Responsável por orientar, treinar, ensinar e auxiliar um Time de Scrum em um en
 
 Responsável por gerenciar, organizar e executar todo o trabalho de desenvolvimento necessário para cria um incremento do produto a cada Sprint. De forma mais informal, é a “mão de obra” do projeto.
 
-![Captura de Tela 2023-06-12 às 11 03 01](https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/f62f3721-7593-40e2-8e56-a9e004feb84e)
+<img src= "https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/f62f3721-7593-40e2-8e56-a9e004feb84e"width="500" />
