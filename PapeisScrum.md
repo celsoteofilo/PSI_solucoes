@@ -1,6 +1,6 @@
 # Papéis Scrum
 
-<img src= https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/35cb4954-00b3-4a11-a73e-0da4ddb538d2 />
+<img src= https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/35cb4954-00b3-4a11-a73e-0da4ddb538d2 width="1000px" /> 
 
 # Time: multifuncional
 
