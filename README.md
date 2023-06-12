@@ -15,7 +15,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 * [Sobre o Projeto](#Sobre-o-Projeto) 
 * [Índice/Sumário](#Índice-/-Sumário)
 * [Etapas do Projeto](#Etapas-do-Projeto)
-* [Apresentação Final](#Apresentação-Final)
+* [Entrega Final](#Entrega-Final)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
 * [Agradecimentos](#Agradecimentos)
@@ -30,7 +30,9 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 
 
 
-## Apresentação Final 
+## Entrega Final
+
+ACESSO AO VÍDEO DE VENDA DO SISTEMA: [Apresentação Venda Projeto](https://drive.google.com/file/d/1FFg_XT7H3NVP2v3BXqtESsAebNEBieQT/view)
 
 ACESSO AO VÍDEO DA APRESENTAÇÃO FINAL: [Apresentação Projeto](https://drive.google.com/file/d/1YKmBABtRXLQsg622gH1NODwNGURFFXrF/view?usp=sharing)
 
