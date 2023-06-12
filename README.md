@@ -36,8 +36,7 @@ ACESSO AO VÍDEO DA APRESENTAÇÃO FINAL: [Apresentação Projeto](https://drive
 
 ACESSO AO PROTÓTIPO [Protótipo Figma](https://www.figma.com/proto/rZCyY55YHAlRLjwdst1GYC/FINAL-PROJETO?node-id=103-2&starting-point-node-id=103%3A2)
 
-ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com/celsoteofilo/PSI_solucoes/files/11725820/Trabalho.Desenvolvimento.do.Software.pdf)
-
+ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com/celsoteofilo/PSI_solucoes/files/11725931/Trabalho.Desenvolvimento.do.Software.1.pdf)
 
 ## Tecnologias Usadas
 
