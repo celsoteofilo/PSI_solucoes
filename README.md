@@ -18,6 +18,7 @@ Com isso nós da PSI Soluções iremos desenvolver um software personalizado par
 * [Apresentação Final](#Apresentação-Final)
 * [Tecnologias Usadas](#Tecnologias-Usadas)
 * [Autores](#Autores)
+* [Agradecimentos](#Agradecimentos)
 
 ## Etapas do Projeto
 
@@ -62,3 +63,7 @@ ACESSO AOS SLIDES: [Trabalho Desenvolvimento do Software.pdf](https://github.com
  - **Mateus da Costa** **RA:62122131**
  - **Samuel Lopes** **RA:622121812**
  - **Valdeno de Oliveira Santos** **RA:62122235**
+
+## Agradecimentos
+
+Agradecemos a todos os integrantes do grupo que se uniram para juntar esforços para a execução deste trabalho, agradecemos também ao professor Glender por todo o suporte dado durante o período do projeto, gratidão as pessoas que com maior experiência no mercado puderam e se disponibilizaram para ajudar o grupo nesta importante caminhada.
