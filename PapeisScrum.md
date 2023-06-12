@@ -1,6 +1,6 @@
 # Papéis Scrum
 
-<img src= "https://th.bing.com/th/id/R.930defcba5515bfd34510503547e71d7?rik=rKqCY9SbbQrFvw&pid=ImgRaw&r=0" width="1000px" /> 
+<img src= "https://github.com/celsoteofilo/PSI_solucoes/blob/main/Backlogdoprojeto.md" width="1000px" /> 
 
 # Time: multifuncional
 
@@ -15,3 +15,4 @@ Responsável por orientar, treinar, ensinar e auxiliar um Time de Scrum em um en
 ### TIME DESENVOLVIMENTO: Valdeno de Oliveira, Lucas Silva, Bruno Henrique, Mateus da Costa e Arthur Prudêncio;
 
 Responsável por gerenciar, organizar e executar todo o trabalho de desenvolvimento necessário para cria um incremento do produto a cada Sprint. De forma mais informal, é a “mão de obra” do projeto.
+https://github.com/celsoteofilo/PSI_solucoes/blob/main/Backlogdoprojeto.md
