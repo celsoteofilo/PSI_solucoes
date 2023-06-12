@@ -16,4 +16,4 @@ Responsável por orientar, treinar, ensinar e auxiliar um Time de Scrum em um en
 
 Responsável por gerenciar, organizar e executar todo o trabalho de desenvolvimento necessário para cria um incremento do produto a cada Sprint. De forma mais informal, é a “mão de obra” do projeto.
 
-<img src= "https://github.com/celsoteofilo/PSI_solucoes/assets/90398200/f62f3721-7593-40e2-8e56-a9e004feb84e"width="500" />
+
